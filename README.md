@@ -1,0 +1,1 @@
+# bugged_managment_project-with-vue-laravel
